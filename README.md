@@ -10,7 +10,7 @@ styles.css    # styling (terminal / phosphor theme)
 CNAME         # custom domain
 assets/
   grid.svg           # background texture
-  resume-master.docx # downloadable résumé
+  Jonathan-Brenes-Fernandez-Resume.docx # downloadable résumé
 .nojekyll     # serve files as-is
 ```
 
